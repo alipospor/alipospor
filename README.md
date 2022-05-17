@@ -4,7 +4,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=alipospor&layout=compact&theme=gruvbox"/>
 </div>
 
-## Tecnologias e Ferramentas: 
+## Technologies and frameworks: 
 <div align="center">
   <a href="">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="45" height="45"/>
